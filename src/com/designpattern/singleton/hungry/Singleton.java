@@ -1,4 +1,4 @@
-package com.designpattern.singleton;
+package com.designpattern.singleton.hungry;
 
 public class Singleton {
     private static Singleton instance = new Singleton();
